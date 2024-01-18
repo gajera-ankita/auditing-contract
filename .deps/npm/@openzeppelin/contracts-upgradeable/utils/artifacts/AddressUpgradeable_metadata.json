@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/npm/@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol": "AddressUpgradeable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol": {
+			"keccak256": "0xbf8dc250aa07ec2837ce70f902e3964a22b749a26160e39865f85f659dc48b66",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a55b289a154a047f2e9e9a33a12091c1797832e3a0bc07d1d6fad461f8e350de",
+				"dweb:/ipfs/QmRGJRtAFWuB7hvgM9L62tc342uRbAoq1mQxMaaX3iDgrM"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,71 @@
+{
+	"deploy": {
+		"VM:-": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"main:1": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"ropsten:3": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"rinkeby:4": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"kovan:42": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"goerli:5": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"Custom": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		}
+	},
+	"data": {
+		"bytecode": {
+			"functionDebugData": {},
+			"generatedSources": [],
+			"linkReferences": {},
+			"object": "60556032600b8282823980515f1a607314602657634e487b7160e01b5f525f60045260245ffd5b305f52607381538281f3fe730000000000000000000000000000000000000000301460806040525f80fdfea264697066735822122083d915fdb7ca1fb03bff8ed093ce4eab2e1af360061517fc360cee0afc65050964736f6c63430008170033",
+			"opcodes": "PUSH1 0x55 PUSH1 0x32 PUSH1 0xB DUP3 DUP3 DUP3 CODECOPY DUP1 MLOAD PUSH0 BYTE PUSH1 0x73 EQ PUSH1 0x26 JUMPI PUSH4 0x4E487B71 PUSH1 0xE0 SHL PUSH0 MSTORE PUSH0 PUSH1 0x4 MSTORE PUSH1 0x24 PUSH0 REVERT JUMPDEST ADDRESS PUSH0 MSTORE PUSH1 0x73 DUP2 MSTORE8 DUP3 DUP2 RETURN INVALID PUSH20 0x0 ADDRESS EQ PUSH1 0x80 PUSH1 0x40 MSTORE PUSH0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 DUP4 0xD9 ISZERO REVERT 0xB7 0xCA 0x1F 0xB0 EXTCODESIZE SELFDESTRUCT DUP15 0xD0 SWAP4 0xCE 0x4E 0xAB 0x2E BYTE RETURN PUSH1 0x6 ISZERO OR 0xFC CALLDATASIZE 0xC 0xEE EXP 0xFC PUSH6 0x50964736F6C PUSH4 0x43000817 STOP CALLER ",
+			"sourceMap": "133:6872:0:-:0;;;;;;;;;;;;;;;-1:-1:-1;;;133:6872:0;;;;;;;;;;;;;;;;;"
+		},
+		"deployedBytecode": {
+			"functionDebugData": {},
+			"generatedSources": [],
+			"immutableReferences": {},
+			"linkReferences": {},
+			"object": "730000000000000000000000000000000000000000301460806040525f80fdfea264697066735822122083d915fdb7ca1fb03bff8ed093ce4eab2e1af360061517fc360cee0afc65050964736f6c63430008170033",
+			"opcodes": "PUSH20 0x0 ADDRESS EQ PUSH1 0x80 PUSH1 0x40 MSTORE PUSH0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 DUP4 0xD9 ISZERO REVERT 0xB7 0xCA 0x1F 0xB0 EXTCODESIZE SELFDESTRUCT DUP15 0xD0 SWAP4 0xCE 0x4E 0xAB 0x2E BYTE RETURN PUSH1 0x6 ISZERO OR 0xFC CALLDATASIZE 0xC 0xEE EXP 0xFC PUSH6 0x50964736F6C PUSH4 0x43000817 STOP CALLER ",
+			"sourceMap": "133:6872:0:-:0;;;;;;;;"
+		},
+		"gasEstimates": {
+			"creation": {
+				"codeDepositCost": "17000",
+				"executionCost": "96",
+				"totalCost": "17096"
+			},
+			"internal": {
+				"_verifyCallResult(bool,bytes memory,string memory)": "infinite",
+				"functionCall(address,bytes memory)": "infinite",
+				"functionCall(address,bytes memory,string memory)": "infinite",
+				"functionCallWithValue(address,bytes memory,uint256)": "infinite",
+				"functionCallWithValue(address,bytes memory,uint256,string memory)": "infinite",
+				"functionStaticCall(address,bytes memory)": "infinite",
+				"functionStaticCall(address,bytes memory,string memory)": "infinite",
+				"isContract(address)": "infinite",
+				"sendValue(address payable,uint256)": "infinite"
+			}
+		},
+		"methodIdentifiers": {}
+	},
+	"abi": []
+}

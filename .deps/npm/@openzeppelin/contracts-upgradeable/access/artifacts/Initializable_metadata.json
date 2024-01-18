@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"stateVariables": {
+				"_initialized": {
+					"details": "Indicates that the contract has been initialized."
+				},
+				"_initializing": {
+					"details": "Indicates that the contract is in the process of being initialized."
+				}
+			},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/npm/@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol": "Initializable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol": {
+			"keccak256": "0x881359aaf901b717ba917ebcb0dd05929ae245ff7c5d8b1cf95c1741c08f9a6a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0b1bac402e8096ff6a9b297b3af5b2cc2933bc21d42e07c1aa7bc9f884b61f81",
+				"dweb:/ipfs/QmPoB12KR8PFYje76fSgCEE8VFEyfpjeBTXjVBXkmNQxZ3"
+			]
+		}
+	},
+	"version": 1
+}

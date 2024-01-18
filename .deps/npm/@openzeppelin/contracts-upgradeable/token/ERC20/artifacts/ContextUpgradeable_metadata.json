@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/npm/@openzeppelin/contracts-upgradeable/token/ERC20/ERC20Upgradeable.sol": "ContextUpgradeable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@openzeppelin/contracts-upgradeable/token/ERC20/ERC20Upgradeable.sol": {
+			"keccak256": "0x4ea91f427348a5f09a245b2a2eab4ce88e5520420358b8c7c8f2767f327fbdd2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3be554a8674dfcdc191f5760ca4f399b5927a2c75ab9d1272f94b46d771e8211",
+				"dweb:/ipfs/QmajGeU2rsudU9eg1fm847qaJR9kHb9kAd8fexvHDPj6o9"
+			]
+		}
+	},
+	"version": 1
+}

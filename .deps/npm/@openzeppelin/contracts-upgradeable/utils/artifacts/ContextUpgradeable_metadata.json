@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/npm/@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol": "ContextUpgradeable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol": {
+			"keccak256": "0x61ca82088e31251c7393df8345840a6b4aba9c9b83521b35c08d8f60b6c1843c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8efc66772b8067c32ba37d47b48734d01e67ad16e986b96b4535a29f21ee7f16",
+				"dweb:/ipfs/QmaMA3Ld4KKzGdU9Ax3fLPwigZQA6uU1pD5hWenrcmPFdv"
+			]
+		},
+		".deps/npm/@openzeppelin/contracts-upgradeable/utils/ContextUpgradeable.sol": {
+			"keccak256": "0xd07e46ebd31aa28928150ebf99f453c92a37ec778c7d78db10ead4e2ad0fb37a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://555672070a7c6718773a5e5f7a38d107ceac3ca288b1f1b997ea5d5ca4a6107e",
+				"dweb:/ipfs/QmPPwLCREVkJCZLCKvzusQmEEhpkXhR1WWtsd2v16xHiGB"
+			]
+		}
+	},
+	"version": 1
+}

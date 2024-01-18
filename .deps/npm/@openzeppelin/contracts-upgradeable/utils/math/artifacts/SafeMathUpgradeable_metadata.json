@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Wrappers over Solidity's arithmetic operations. NOTE: `SafeMath` is generally not needed starting with Solidity 0.8, since the compiler now has built in overflow checking.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			".deps/npm/@openzeppelin/contracts-upgradeable/utils/math/SafeMathUpgradeable.sol": "SafeMathUpgradeable"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		".deps/npm/@openzeppelin/contracts-upgradeable/utils/math/SafeMathUpgradeable.sol": {
+			"keccak256": "0xb1561a6950b1aaa504c8f81b7d46bccfa77ccd10de3eb865cf34b1acd5ad505e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9a56cb91629dacd161be24908fbf94315f3f45dd6fee8dad82b27af853cbc4ee",
+				"dweb:/ipfs/QmNfEzdf4NTpxyhzWKAmeDwwSpJ6ZjNizK3GXw3TEuTTgn"
+			]
+		}
+	},
+	"version": 1
+}
